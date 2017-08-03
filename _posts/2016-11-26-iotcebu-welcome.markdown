@@ -16,18 +16,18 @@ image-sm: https://lh3.googleusercontent.com/veLhAlI0ZBSiUnEw96K-j24AZxDnkOTnIZhC
 ---
 **IoT Cebu** is a grassroots community of tinkerers, hobbyists, enthusiasts, designers, startup founders, engineers, and professionals who love to think, play, work, and collaborate on the following areas:
 
-* Smart and Connected Things
-* M2M (Machine-to-Machine) systems and communications
-* Single Board Computers
-* Arduino
-* Raspberry Pi 
-* Automation (Industrial, Smart Homes, Smart Factories, etc.)
-* Embedded Systems (bare metal programming)
-* Hardware/Firmware/Software Development and Integration
-* Web Development (Front-end, back-end, server-side, etc.)
-* Technopreneurship (Startups)
-* Education and Awareness
-* Social Impact through Technology
+1. Smart and Connected Things
+2. M2M (Machine-to-Machine) systems and communications
+3. Single Board Computers
+4. Arduino
+5. Raspberry Pi 
+6. Automation (Industrial, Smart Homes, Smart Factories, etc.)
+7. Embedded Systems (bare metal programming)
+8. Hardware/Firmware/Software Development and Integration
+9. Web Development (Front-end, back-end, server-side, etc.)
+10. Technopreneurship (Startups)
+11. Education and Awareness
+12. Social Impact through Technology
 
 ### Flat over Hierarchy;
 We prefer a **flat** organization where people involved gets to be heard and valued before decision takes place. We believe in **self-organizing** teams/individuals when running the org. 	
