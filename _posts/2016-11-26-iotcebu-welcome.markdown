@@ -5,30 +5,28 @@ date: 2016-11-26
 categories:
   - News
 description: "Introduction to IoT Cebu"
-author: "Niño Liwa"
+author: "Kristoffer Amora"
 profile_img: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/8246_10208960712594803_4974110643699235072_n.jpg?_nc_eui2=v1%3AAeGQwIFY9KtSCVYMgqOHzYfZSp2pFfqSbFoKtGhaomJnVAzLoP5WdjLaEUq66mcuADdftDH9SIu5g53ghPmw_L72hnQRChI0WQeFaE-elBzsYVt81LPpUyBhCDiZAu4jHwk&oh=35c4a914b6eaa50b9237a5cb65e6b2af&oe=58FD2E88
-aboutAuthor: "Niño Liwa is an Electronics Enthusiast that tackles both Firmware and Hardware. He works at Nanu Inc. in Singapore as his full-time job."
+aboutAuthor: "Kristoffer Amora is an Electronics Enthusiast that tackles both Firmware and Hardware. He works at Fortify Technologies as his full-time job."
 social:
   github: http://github.com/vynci
 
-image: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/14463150_1822455267989412_644747042526783602_n.jpg?_nc_eui2=v1%3AAeGk3cp2OrUrICKRyofPYIXeT2NYxOhzzKDGHv-Uq2qbDKtlkgml6uypXjdByGk5uVKDlW_AXkOhapk92KkFzSX-WkY1Mn_7S_VH8aFU3auCd0FEhYG5jrTXwoENQHNwDOE&oh=095dfe214f2478490d14316a452e275a&oe=58B38BC6
-image-sm: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/14463150_1822455267989412_644747042526783602_n.jpg?_nc_eui2=v1%3AAeGk3cp2OrUrICKRyofPYIXeT2NYxOhzzKDGHv-Uq2qbDKtlkgml6uypXjdByGk5uVKDlW_AXkOhapk92KkFzSX-WkY1Mn_7S_VH8aFU3auCd0FEhYG5jrTXwoENQHNwDOE&oh=095dfe214f2478490d14316a452e275a&oe=58B38BC6
+image: https://lh3.googleusercontent.com/veLhAlI0ZBSiUnEw96K-j24AZxDnkOTnIZhCxKc7AJXoEhdI71QTXB_RbIl4vxuEb2iPyd_8gsmlRfS3s4bcbtCzWiP0b70VYnmQXmw_YgCr4OyI08--rlWsFihgQ8Tg4j1TyKYXr5VNtO6MFuEdjgMPqYXuGnVIKEF5qbyoe6n7SmMXvcN3ZgUwl-ZZsG-jRLJbMxVNsSEvk-YoWo6M9X96W4Y6W13NJ3agoVS7tuoXcZ5oAbNIcQbWE-odIKk9jqvPvuNZG_9tuNJoxCx09XX7zULKdSdhIrXQ1TUwWVuU9IiAPrlegfRpppdi93pGFBbczRggsA2iLBZY7F-immoNO0lSQ7qef4S0r-RpO_HnKaxC1JoliH5hopzomGOrLvi2tBXOQKrR550QSiIwpIkaBgxd76pYs4ziPwNn3dzdv5yshLCNHw3ncXkDARyRZa3kVw4lU6oroVqzcCdzfh5G7eRaV5Mpff30ylHr0ml8rVBbdp8Hi10t7TVvESIwEA0lzse0bce9oVI5HkitW7eshhzv48ePe_tsyD5AdPvnLbQO9wcVVIKIoPytwzkv3s7B3cLrUHYVxdjzRbICVSzfH0jTzeaL7-5VDnGq9ODo3e9_b0NE=w1769-h995-no
+image-sm: https://lh3.googleusercontent.com/veLhAlI0ZBSiUnEw96K-j24AZxDnkOTnIZhCxKc7AJXoEhdI71QTXB_RbIl4vxuEb2iPyd_8gsmlRfS3s4bcbtCzWiP0b70VYnmQXmw_YgCr4OyI08--rlWsFihgQ8Tg4j1TyKYXr5VNtO6MFuEdjgMPqYXuGnVIKEF5qbyoe6n7SmMXvcN3ZgUwl-ZZsG-jRLJbMxVNsSEvk-YoWo6M9X96W4Y6W13NJ3agoVS7tuoXcZ5oAbNIcQbWE-odIKk9jqvPvuNZG_9tuNJoxCx09XX7zULKdSdhIrXQ1TUwWVuU9IiAPrlegfRpppdi93pGFBbczRggsA2iLBZY7F-immoNO0lSQ7qef4S0r-RpO_HnKaxC1JoliH5hopzomGOrLvi2tBXOQKrR550QSiIwpIkaBgxd76pYs4ziPwNn3dzdv5yshLCNHw3ncXkDARyRZa3kVw4lU6oroVqzcCdzfh5G7eRaV5Mpff30ylHr0ml8rVBbdp8Hi10t7TVvESIwEA0lzse0bce9oVI5HkitW7eshhzv48ePe_tsyD5AdPvnLbQO9wcVVIKIoPytwzkv3s7B3cLrUHYVxdjzRbICVSzfH0jTzeaL7-5VDnGq9ODo3e9_b0NE=w1769-h995-no
 ---
 **IoT Cebu** is a grassroots community of tinkerers, hobbyists, enthusiasts, designers, startup founders, engineers, and professionals who love to think, play, work, and collaborate on the following areas:
-- Smart and Connected Things
-- M2M (Machine-to-Machine) systems and communications
-- Single Board Computers
-- Arduino
-- Raspberry Pi 
-- Automation (Industrial, Smart Homes, Smart Factories, etc.)
-- Embedded Systems (bare metal programming)
-- Hardware/Firmware/Software Development and Integration
-- Web Development (Front-end, back-end, server-side, etc.)
-- Technopreneurship (Startups)
-- Education and Awareness
-- Social Impact through Technology
-
-# 01010101. . . . . . . . M A N I F E S T O . . . . . . . . 01010101
+* Smart and Connected Things
+* M2M (Machine-to-Machine) systems and communications
+* Single Board Computers
+* Arduino
+* Raspberry Pi 
+* Automation (Industrial, Smart Homes, Smart Factories, etc.)
+* Embedded Systems (bare metal programming)
+* Hardware/Firmware/Software Development and Integration
+* Web Development (Front-end, back-end, server-side, etc.)
+* Technopreneurship (Startups)
+* Education and Awareness
+* Social Impact through Technology
 
 ### Flat over Hierarchy;
 We prefer a **flat** organization where people involved gets to be heard and valued before decision takes place. We believe in **self-organizing** teams/individuals when running the org. 	
@@ -55,4 +53,3 @@ We foster **technopreneurship** among members and help them grow their businesse
 We look forward to finding opportunities to build **Technology for Good**. We are more than happy to collaborate on projects that have impact to our environment and society. 
 
 **JOIN US!!!**
-[http://iotcebu.io](http:iotcebu.io)
